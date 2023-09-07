@@ -7,6 +7,6 @@ module JudeeeHello
   # Your code goes here...
 
   def self.say
-    puts "hello, wolrd!"
+    puts "🐷 < hello, wolrd!"
   end
 end
